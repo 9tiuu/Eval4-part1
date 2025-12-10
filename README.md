@@ -16,3 +16,8 @@
 
 - 37 y 1708
 - 2581
+
+<h1>Instalación de git</h1>
+
+sudo dnf install git -y
+sudo git clone https://repositorio
