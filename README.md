@@ -3,9 +3,9 @@
 
 1. sudo dnf install -y httpd php
 
-    sudo systemctl start httpd
-    sudo systemctl enable httpd
-    sudo systemctl status httpd
+    - sudo systemctl start httpd
+    - sudo systemctl enable httpd
+    - sudo systemctl status httpd
 
 2. cd /var/www/html/
 
@@ -19,5 +19,5 @@
 
 <h1>Instalación de git</h1>
 
-sudo dnf install git -y
-sudo git clone https://repositorio
+- sudo dnf install git -y
+- sudo git clone https://repositorio
